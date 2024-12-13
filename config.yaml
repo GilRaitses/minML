@@ -1,0 +1,10 @@
+batch_size: 32
+depth_velocity_threshold: 3.4
+hidden_size: 64
+high_pitch_threshold: 30
+high_roll_threshold: 90
+learning_rate: 0.001
+num_epochs: 20
+stride: 12
+use_windowing: true
+window_size: 25

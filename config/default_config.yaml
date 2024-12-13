@@ -1,0 +1,11 @@
+hidden_size: 64
+batch_size: 32
+learning_rate: 0.001
+num_epochs: 20
+use_windowing: true
+window_size: 25
+stride: 12
+behavior_table:
+  Feeding: 1
+  Traveling: 2
+  Unknown: 0
