@@ -1,34 +1,34 @@
-﻿whaleID,whaleName,sampleHz,eventStart,eventEnd,state,event,note
-mn09_203c,Jabiru,5,1172,1395,Feeding,Type 1,Kick Feeding
-mn09_203c,Jabiru,5,1842,2088,Feeding,Type 2,Bubble feeding (Theres one loop the goes down and lunges straight up)
-mn09_203c,Jabiru,5,2384,2568,Feeding,Type 3,Lunge in bubble net feeding? 
-mn09_203c,Jabiru,5,2590,2687,Feeding,Type 3,Lunge in bubble net feeding? 
-mn09_203c,Jabiru,5,2688,2824,Feeding,Type 3,Lunge in bubble net feeding? 
-mn09_203c,Jabiru,5,2955,3089,Feeding,Type 1,Kick feeding
-mn09_203c,Jabiru,5,3189,3420,Feeding,Type 1,Kick feeding with prior prep drive
-mn09_203c,Jabiru,5,3421,3550,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,3600,3762,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,3765,3930,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,3990,4642,Feeding,Type 5,Noodle feeding 
-mn09_203c,Jabiru,5,4422,4605,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,4605,4870,Feeding,Exploratory dives,Exploratory dives
-mn09_203c,Jabiru,5,4905,5069,Feeding,Type 3,Lunge feeding?
-mn09_203c,Jabiru,5,5191,5436,Feeding,Type 1,Kick feeding or just feeding loop with prep dive
-mn09_203c,Jabiru,5,5437,5583,Feeding,Type 1,Kick feeding or just feeding loop with prep dive
-mn09_203c,Jabiru,5,5584,5923,Feeding,Exploratory dives,Exploratory dives
-mn09_203c,Jabiru,5,5924,6190,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,6191,6851,Feeding,Exploratory dives,Exploratory dives
-mn09_203c,Jabiru,5,6852,7105,Feeding,2 Type 4,Two feeding loops
-mn09_203c,Jabiru,5,7106,7801,Feeding,Type 5,Noodle feeding 
-mn09_203c,Jabiru,5,7810,8121,Feeding,Type 5,Noodle feeding 
-mn09_203c,Jabiru,5,8130,8230,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,8488,8840,Feeding,Type 5,Noodle feeding 
-mn09_203c,Jabiru,5,9303,9579,Feeding,Type 6,Loop - noodle feeding
-mn09_203c,Jabiru,5,9580,9704,Feeding,Type 6,Loop - noodle feeding
-mn09_203c,Jabiru,5,9750,13327,Traveling,Traveling,Traveling 
-mn09_203c,Jabiru,5,13400,14095,Feeding,Exploratory dives,Exploratory dives
-mn09_203c,Jabiru,5,14100,14292,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,14300,14510,Feeding,Type 7,Feeding side roll
-mn09_203c,Jabiru,5,14530,14950,Feeding,Exploratory dives,Exploratory dives
-mn09_203c,Jabiru,5,14951,15095,Feeding,Type 4,Feeding loop 
-mn09_203c,Jabiru,5,15096,15096,End ,End,End
+﻿whaleID,whaleName,sampleHz,eventStart,eventEnd,state,event
+mn09_203c,Jabiru,5,1172,1395,Feeding,Kick Feeding
+mn09_203c,Jabiru,5,1842,2088,Feeding,Bubble Feeding
+mn09_203c,Jabiru,5,2384,2568,Feeding,BubbleLunge
+mn09_203c,Jabiru,5,2590,2687,Feeding,BubbleLunge
+mn09_203c,Jabiru,5,2688,2824,Feeding,BubbleLunge
+mn09_203c,Jabiru,5,2955,3089,Feeding,Kick Feeding
+mn09_203c,Jabiru,5,3189,3420,Feeding,Kick Feeding
+mn09_203c,Jabiru,5,3421,3550,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,3600,3762,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,3765,3930,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,3990,4642,Feeding,Noodle feeding 
+mn09_203c,Jabiru,5,4422,4605,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,4605,4870,Feeding,Exploratory dives
+mn09_203c,Jabiru,5,4905,5069,Feeding,Lunge feeding
+mn09_203c,Jabiru,5,5191,5436,Feeding,Kick Feeding
+mn09_203c,Jabiru,5,5437,5583,Feeding,Kick Feeding
+mn09_203c,Jabiru,5,5584,5923,Feeding,Exploratory dives
+mn09_203c,Jabiru,5,5924,6190,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,6191,6851,Feeding,Exploratory dives
+mn09_203c,Jabiru,5,6852,7105,Feeding,Bubble Feeding
+mn09_203c,Jabiru,5,7106,7801,Feeding,Noodle feeding 
+mn09_203c,Jabiru,5,7810,8121,Feeding,Noodle feeding 
+mn09_203c,Jabiru,5,8130,8230,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,8488,8840,Feeding,Noodle feeding 
+mn09_203c,Jabiru,5,9303,9579,Feeding,Loop - noodle feeding
+mn09_203c,Jabiru,5,9580,9704,Feeding,Loop - noodle feeding
+mn09_203c,Jabiru,5,9750,13327,Traveling,Traveling
+mn09_203c,Jabiru,5,13400,14095,Feeding,Exploratory dives
+mn09_203c,Jabiru,5,14100,14292,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,14300,14510,Feeding,Feeding side roll
+mn09_203c,Jabiru,5,14530,14950,Feeding,Exploratory dives
+mn09_203c,Jabiru,5,14951,15095,Feeding,Feeding loop 
+mn09_203c,Jabiru,5,15096,15096,End ,End
